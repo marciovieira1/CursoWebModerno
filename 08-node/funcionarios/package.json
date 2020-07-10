@@ -1,0 +1,24 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "Curso Web Moderno - capitulo 08 - Node",
+  "main": "funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciovieira1/CursoWebModerno.git"
+  },
+  "author": "Márcio Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciovieira1/CursoWebModerno/issues"
+  },
+  "homepage": "https://github.com/marciovieira1/CursoWebModerno#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
