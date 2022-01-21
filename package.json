@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "epub": "^1.2.1",
-    "epubjs": "^0.3.87",
+    "epubjs": "^0.3.89",
     "lodash": "^4.17.15",
     "node-schedule": "1.3.0"
   },
